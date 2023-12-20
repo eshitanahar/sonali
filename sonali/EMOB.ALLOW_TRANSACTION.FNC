@@ -2,7 +2,7 @@ CREATE OR REPLACE FUNCTION EMOB.ALLOW_TRANSACTION (pAppId     VARCHAR2,
                                                    pPageId    VARCHAR2)
    RETURN BOOLEAN
 IS
-----Changed---Miaze12/18/2023002000asdaasfdffeshita22------
+----Changed---Miaze12/18/2023002000asdaasfdffeshita22newww------
    vCurrentHr          VARCHAR2 (2);
    vAllowTransaction   VARCHAR2 (1);
    vCurrentMinute      VARCHAR2 (2);
